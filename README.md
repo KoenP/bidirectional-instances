@@ -1,6 +1,8 @@
 # bidirectional-instances
 
-Proof-of concept implementation of the type inference and elaboration algorithm for type classes with Bidirectional Type Class Instances. Once you have built the executable `prototype` using your favorite tool, you can call it on files with
+This repository provides a prototype implementation of type inference with translation to System Fc of type classes with bidirectional instances, as presented in the paper ``Bidirectional Type Class Instances'' by Koen Pauwels, Georgios Karachalias, Michiel Derhaeg and Tom Schrijvers. This prototype was primarily developed by Michiel Derhaeg.
+
+Once you have built the executable `prototype` using your favorite tool, you can call it on files with
 
     prototype <filename>
 
