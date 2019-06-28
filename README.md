@@ -1,4 +1,4 @@
-# bidirectional-impl
+# bidirectional-instances
 
 Proof-of concept implementation of the type inference and elaboration algorithm for type classes with Bidirectional Type Class Instances. Once you have built the executable `prototype` using your favorite tool, you can call it on files with
 
